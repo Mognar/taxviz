@@ -1,0 +1,258 @@
+Dept,Value
+department,
+department.Attorney General,
+department.Attorney General.Conservative Party,104
+department.Attorney General.Scottish National Party,23
+department.Attorney General.Labour Party,74
+department.Attorney General.Labour Party Cooperative Party,5
+department.Attorney General.Democratic Unionist Party,5
+department.Attorney General.UK Independence Party,1
+department.Attorney General.Ulster Unionist Party,3
+department.Cabinet Office,
+department.Cabinet Office.Conservative Party,132
+department.Cabinet Office.Scottish National Party,47
+department.Cabinet Office.Labour Party,89
+department.Cabinet Office.Labour Party Cooperative Party,12
+department.Cabinet Office.Liberal Democrats,3
+department.Cabinet Office.Democratic Unionist Party,4
+department.Cabinet Office.Plaid Cymru,3
+department.Cabinet Office.Ulster Unionist Party,4
+department.Cabinet Office.Social Democratic and Labour Party,1
+department.Church Commissioners,
+department.Church Commissioners.Conservative Party,65
+department.Church Commissioners.Scottish National Party,3
+department.Church Commissioners.Labour Party,18
+department.Church Commissioners.Labour Party Cooperative Party,7
+department.Church Commissioners.Liberal Democrats,2
+department.Church Commissioners.Democratic Unionist Party,4
+department.Church Commissioners.Ulster Unionist Party,2
+department.Communities and Local Government,
+department.Communities and Local Government.Conservative Party,242
+department.Communities and Local Government.Scottish National Party,47
+department.Communities and Local Government.Labour Party,213
+department.Communities and Local Government.Labour Party Cooperative Party,25
+department.Communities and Local Government.Liberal Democrats,7
+department.Communities and Local Government.Democratic Unionist Party,3
+department.Communities and Local Government.Green Party,2
+department.Communities and Local Government.Independent (affiliation),1
+department.Department for Business Innovation and Skills,
+department.Department for Business Innovation and Skills.Conservative Party,293
+department.Department for Business Innovation and Skills.Scottish National Party,50
+department.Department for Business Innovation and Skills.Labour Party,235
+department.Department for Business Innovation and Skills.Labour Party Cooperative Party,34
+department.Department for Business Innovation and Skills.Liberal Democrats,7
+department.Department for Business Innovation and Skills.Democratic Unionist Party,12
+department.Department for Business Innovation and Skills.Plaid Cymru,2
+department.Department for Business Innovation and Skills.Ulster Unionist Party,1
+department.Department for Business Innovation and Skills.Social Democratic and Labour Party,6
+department.Department for Culture Media and Sport,
+department.Department for Culture Media and Sport.Conservative Party,253
+department.Department for Culture Media and Sport.Scottish National Party,40
+department.Department for Culture Media and Sport.Labour Party,150
+department.Department for Culture Media and Sport.Labour Party Cooperative Party,14
+department.Department for Culture Media and Sport.Liberal Democrats,3
+department.Department for Culture Media and Sport.Democratic Unionist Party,6
+department.Department for Culture Media and Sport.Plaid Cymru,2
+department.Department for Culture Media and Sport.UK Independence Party,2
+department.Department for Culture Media and Sport.Social Democratic and Labour Party,2
+department.Department for Culture Media and Sport.Independent (affiliation),6
+department.Department for Education,
+department.Department for Education.Conservative Party,296
+department.Department for Education.Scottish National Party,42
+department.Department for Education.Labour Party,209
+department.Department for Education.Labour Party Cooperative Party,41
+department.Department for Education.Liberal Democrats,11
+department.Department for Education.Democratic Unionist Party,2
+department.Department for Education.UK Independence Party,2
+department.Department for Education.Ulster Unionist Party,2
+department.Department for Education.Social Democratic and Labour Party,1
+department.Department for Education.Independent (affiliation),2
+department.Department for Environment Food and Rural Affairs,
+department.Department for Environment Food and Rural Affairs.Conservative Party,253
+department.Department for Environment Food and Rural Affairs.Scottish National Party,45
+department.Department for Environment Food and Rural Affairs.Labour Party,157
+department.Department for Environment Food and Rural Affairs.Labour Party Cooperative Party,19
+department.Department for Environment Food and Rural Affairs.Liberal Democrats,8
+department.Department for Environment Food and Rural Affairs.Democratic Unionist Party,8
+department.Department for Environment Food and Rural Affairs.Plaid Cymru,1
+department.Department for Environment Food and Rural Affairs.Ulster Unionist Party,7
+department.Department for Environment Food and Rural Affairs.Social Democratic and Labour Party,4
+department.Department for Environment Food and Rural Affairs.Green Party,2
+department.Department for International Development,
+department.Department for International Development.Conservative Party,147
+department.Department for International Development.Scottish National Party,43
+department.Department for International Development.Labour Party,115
+department.Department for International Development.Labour Party Cooperative Party,16
+department.Department for International Development.Liberal Democrats,9
+department.Department for International Development.Democratic Unionist Party,6
+department.Department for International Development.UK Independence Party,2
+department.Department for International Development.Independent (affiliation),1
+department.Department for Transport,
+department.Department for Transport.Conservative Party,304
+department.Department for Transport.Scottish National Party,55
+department.Department for Transport.Labour Party,217
+department.Department for Transport.Labour Party Cooperative Party,34
+department.Department for Transport.Liberal Democrats,17
+department.Department for Transport.Democratic Unionist Party,10
+department.Department for Transport.Plaid Cymru,3
+department.Department for Transport.UK Independence Party,1
+department.Department for Transport.Ulster Unionist Party,3
+department.Department for Transport.Social Democratic and Labour Party,1
+department.Department for Transport.Independent (affiliation),1
+department.Department for Work and Pensions,
+department.Department for Work and Pensions.Conservative Party,280
+department.Department for Work and Pensions.Scottish National Party,93
+department.Department for Work and Pensions.Labour Party,235
+department.Department for Work and Pensions.Labour Party Cooperative Party,22
+department.Department for Work and Pensions.Liberal Democrats,6
+department.Department for Work and Pensions.Ulster Unionist Party,2
+department.Department for Work and Pensions.Social Democratic and Labour Party,2
+department.Department for Work and Pensions.Independent (affiliation),1
+department.Department of Energy and Climate Change,
+department.Department of Energy and Climate Change.Conservative Party,232
+department.Department of Energy and Climate Change.Scottish National Party,96
+department.Department of Energy and Climate Change.Labour Party,217
+department.Department of Energy and Climate Change.Labour Party Cooperative Party,30
+department.Department of Energy and Climate Change.Liberal Democrats,15
+department.Department of Energy and Climate Change.Democratic Unionist Party,6
+department.Department of Energy and Climate Change.Plaid Cymru,4
+department.Department of Energy and Climate Change.UK Independence Party,3
+department.Department of Energy and Climate Change.Social Democratic and Labour Party,5
+department.Department of Energy and Climate Change.Green Party,6
+department.Department of Health,
+department.Department of Health.Conservative Party,317
+department.Department of Health.Scottish National Party,57
+department.Department of Health.Labour Party,235
+department.Department of Health.Labour Party Cooperative Party,26
+department.Department of Health.Liberal Democrats,21
+department.Department of Health.Democratic Unionist Party,8
+department.Department of Health.UK Independence Party,4
+department.Department of Health.Ulster Unionist Party,3
+department.Department of Health.Social Democratic and Labour Party,11
+department.Department of Health.Green Party,2
+department.Foreign and Commonwealth Office,
+department.Foreign and Commonwealth Office.Conservative Party,313
+department.Foreign and Commonwealth Office.Scottish National Party,60
+department.Foreign and Commonwealth Office.Labour Party,200
+department.Foreign and Commonwealth Office.Labour Party Cooperative Party,29
+department.Foreign and Commonwealth Office.Liberal Democrats,10
+department.Foreign and Commonwealth Office.Democratic Unionist Party,6
+department.Foreign and Commonwealth Office.UK Independence Party,2
+department.Foreign and Commonwealth Office.Ulster Unionist Party,2
+department.Foreign and Commonwealth Office.Social Democratic and Labour Party,9
+department.Foreign and Commonwealth Office.Green Party,1
+department.Foreign and Commonwealth Office.Independent (affiliation),1
+department.Home Office,
+department.Home Office.Conservative Party,245
+department.Home Office.Scottish National Party,63
+department.Home Office.Labour Party,172
+department.Home Office.Labour Party Cooperative Party,27
+department.Home Office.Liberal Democrats,12
+department.Home Office.Democratic Unionist Party,3
+department.Home Office.Plaid Cymru,2
+department.Home Office.UK Independence Party,6
+department.Home Office.Ulster Unionist Party,2
+department.Home Office.Social Democratic and Labour Party,2
+department.Home Office.Green Party,2
+department.Home Office.Independent (affiliation),4
+department.House of Commons Commission,
+department.House of Commons Commission.Conservative Party,10
+department.House of Commons Commission.Scottish National Party,16
+department.House of Commons Commission.Labour Party,6
+department.House of Commons Commission.Labour Party Cooperative Party,5
+department.House of Commons Commission.Democratic Unionist Party,2
+department.House of Commons Commission.UK Independence Party,2
+department.Leader of the House of Commons,
+department.Leader of the House of Commons.Conservative Party,42
+department.Leader of the House of Commons.Scottish National Party,39
+department.Leader of the House of Commons.Labour Party,44
+department.Leader of the House of Commons.Labour Party Cooperative Party,4
+department.Leader of the House of Commons.Liberal Democrats,1
+department.Minister for Women and Equalities,
+department.Minister for Women and Equalities.Conservative Party,133
+department.Minister for Women and Equalities.Scottish National Party,39
+department.Minister for Women and Equalities.Labour Party,105
+department.Minister for Women and Equalities.Labour Party Cooperative Party,9
+department.Minister for Women and Equalities.Liberal Democrats,3
+department.Minister for Women and Equalities.Democratic Unionist Party,5
+department.Minister for Women and Equalities.UK Independence Party,2
+department.Minister for Women and Equalities.Ulster Unionist Party,1
+department.Minister for Women and Equalities.Social Democratic and Labour Party,1
+department.Ministry of Defence,
+department.Ministry of Defence.Conservative Party,332
+department.Ministry of Defence.Scottish National Party,87
+department.Ministry of Defence.Labour Party,177
+department.Ministry of Defence.Labour Party Cooperative Party,30
+department.Ministry of Defence.Liberal Democrats,8
+department.Ministry of Defence.Democratic Unionist Party,3
+department.Ministry of Defence.Plaid Cymru,3
+department.Ministry of Defence.UK Independence Party,2
+department.Ministry of Defence.Ulster Unionist Party,2
+department.Ministry of Defence.Social Democratic and Labour Party,2
+department.Ministry of Justice,
+department.Ministry of Justice.Conservative Party,327
+department.Ministry of Justice.Scottish National Party,63
+department.Ministry of Justice.Labour Party,236
+department.Ministry of Justice.Labour Party Cooperative Party,20
+department.Ministry of Justice.Liberal Democrats,15
+department.Ministry of Justice.Democratic Unionist Party,5
+department.Ministry of Justice.Plaid Cymru,3
+department.Ministry of Justice.UK Independence Party,2
+department.Ministry of Justice.Ulster Unionist Party,6
+department.Ministry of Justice.Social Democratic and Labour Party,4
+department.Ministry of Justice.Independent (affiliation),1
+department.Northern Ireland Office,
+department.Northern Ireland Office.Conservative Party,85
+department.Northern Ireland Office.Scottish National Party,7
+department.Northern Ireland Office.Labour Party,55
+department.Northern Ireland Office.Labour Party Cooperative Party,4
+department.Northern Ireland Office.Democratic Unionist Party,43
+department.Northern Ireland Office.Ulster Unionist Party,8
+department.Northern Ireland Office.Social Democratic and Labour Party,21
+department.Northern Ireland Office.Independent (affiliation),6
+department.Prime Minister,
+department.Prime Minister.Conservative Party,606
+department.Prime Minister.Scottish National Party,175
+department.Prime Minister.Labour Party,527
+department.Prime Minister.Labour Party Cooperative Party,37
+department.Prime Minister.Liberal Democrats,12
+department.Prime Minister.Democratic Unionist Party,11
+department.Prime Minister.Plaid Cymru,8
+department.Prime Minister.UK Independence Party,8
+department.Prime Minister.Ulster Unionist Party,3
+department.Prime Minister.Social Democratic and Labour Party,7
+department.Prime Minister.Green Party,10
+department.Public Accounts Commission,
+department.Public Accounts Commission.Conservative Party,8
+department.Public Accounts Commission.Scottish National Party,3
+department.Public Accounts Commission.Labour Party Cooperative Party,1
+department.Scotland Office,
+department.Scotland Office.Conservative Party,73
+department.Scotland Office.Scottish National Party,112
+department.Scotland Office.Labour Party,65
+department.Scotland Office.Labour Party Cooperative Party,4
+department.Scotland Office.Liberal Democrats,3
+department.Scotland Office.Democratic Unionist Party,1
+department.Scotland Office.Independent (affiliation),1
+department.Speaker's Committee on the Electoral Commission,
+department.Speaker's Committee on the Electoral Commission.Conservative Party,21
+department.Speaker's Committee on the Electoral Commission.Scottish National Party,6
+department.Speaker's Committee on the Electoral Commission.Labour Party,6
+department.Speaker's Committee on the Electoral Commission.Labour Party Cooperative Party,3
+department.Treasury,
+department.Treasury.Conservative Party,305
+department.Treasury.Scottish National Party,74
+department.Treasury.Labour Party,182
+department.Treasury.Labour Party Cooperative Party,49
+department.Treasury.Liberal Democrats,13
+department.Treasury.Democratic Unionist Party,5
+department.Treasury.Ulster Unionist Party,5
+department.Treasury.Social Democratic and Labour Party,8
+department.Treasury.Green Party,2
+department.Wales Office,
+department.Wales Office.Conservative Party,109
+department.Wales Office.Scottish National Party,2
+department.Wales Office.Labour Party,88
+department.Wales Office.Labour Party Cooperative Party,11
+department.Wales Office.Liberal Democrats,7
+department.Wales Office.Plaid Cymru,28
