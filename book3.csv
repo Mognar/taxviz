@@ -1,0 +1,249 @@
+id,value
+party,
+party.Conservative Party,
+party.Conservative Party.Attorney General,104
+party.Conservative Party.Cabinet Office,132
+party.Conservative Party.Church Commissioners,65
+party.Conservative Party.Communities and Local Government,242
+"party.Conservative Party.Department for Business, Innovation and Skills",293
+"party.Conservative Party.Department for Culture, Media and Sport",253
+party.Conservative Party.Department for Education,296
+"party.Conservative Party.Department for Environment, Food and Rural Affairs",253
+party.Conservative Party.Department for International Development,147
+party.Conservative Party.Department for Transport,304
+party.Conservative Party.Department for Work and Pensions,280
+party.Conservative Party.Department of Energy and Climate Change,232
+party.Conservative Party.Department of Health,317
+party.Conservative Party.Foreign and Commonwealth Office,313
+party.Conservative Party.Home Office,245
+party.Conservative Party.House of Commons Commission,10
+party.Conservative Party.Leader of the House of Commons,42
+party.Conservative Party.Minister for Women and Equalities,133
+party.Conservative Party.Ministry of Defence,332
+party.Conservative Party.Ministry of Justice,327
+party.Conservative Party.Northern Ireland Office,85
+party.Conservative Party.Prime Minister,606
+party.Conservative Party.Public Accounts Commission,8
+party.Conservative Party.Scotland Office,73
+party.Conservative Party.Speaker's Committee on the Electoral Commission,21
+party.Conservative Party.Treasury,305
+party.Conservative Party.Wales Office,109
+party.Democratic Unionist Party,
+party.Democratic Unionist Party.Attorney General,5
+party.Democratic Unionist Party.Cabinet Office,4
+party.Democratic Unionist Party.Church Commissioners,4
+party.Democratic Unionist Party.Communities and Local Government,3
+"party.Democratic Unionist Party.Department for Business, Innovation and Skills",12
+"party.Democratic Unionist Party.Department for Culture, Media and Sport",6
+party.Democratic Unionist Party.Department for Education,2
+"party.Democratic Unionist Party.Department for Environment, Food and Rural Affairs",8
+party.Democratic Unionist Party.Department for International Development,6
+party.Democratic Unionist Party.Department for Transport,10
+party.Democratic Unionist Party.Department of Energy and Climate Change,6
+party.Democratic Unionist Party.Department of Health,8
+party.Democratic Unionist Party.Foreign and Commonwealth Office,6
+party.Democratic Unionist Party.Home Office,3
+party.Democratic Unionist Party.House of Commons Commission,2
+party.Democratic Unionist Party.Minister for Women and Equalities,5
+party.Democratic Unionist Party.Ministry of Defence,3
+party.Democratic Unionist Party.Ministry of Justice,5
+party.Democratic Unionist Party.Northern Ireland Office,43
+party.Democratic Unionist Party.Prime Minister,11
+party.Democratic Unionist Party.Scotland Office,1
+party.Democratic Unionist Party.Treasury,5
+party.Green Party,27
+party.Green Party.Communities and Local Government,2
+"party.Green Party.Department for Environment, Food and Rural Affairs",2
+party.Green Party.Department of Energy and Climate Change,6
+party.Green Party.Department of Health,2
+party.Green Party.Foreign and Commonwealth Office,1
+party.Green Party.Home Office,2
+party.Green Party.Prime Minister,10
+party.Green Party.Treasury,2
+party.Independent (affiliation),
+party.Independent (affiliation).Communities and Local Government,1
+"party.Independent (affiliation).Department for Culture, Media and Sport",6
+party.Independent (affiliation).Department for Education,2
+party.Independent (affiliation).Department for International Development,1
+party.Independent (affiliation).Department for Transport,1
+party.Independent (affiliation).Department for Work and Pensions,1
+party.Independent (affiliation).Foreign and Commonwealth Office,1
+party.Independent (affiliation).Home Office,4
+party.Independent (affiliation).Ministry of Justice,1
+party.Independent (affiliation).Northern Ireland Office,6
+party.Independent (affiliation).Scotland Office,1
+party.Labour Party,
+party.Labour Party.Attorney General,74
+party.Labour Party.Cabinet Office,89
+party.Labour Party.Church Commissioners,18
+party.Labour Party.Communities and Local Government,213
+"party.Labour Party.Department for Business, Innovation and Skills",235
+"party.Labour Party.Department for Culture, Media and Sport",150
+party.Labour Party.Department for Education,209
+"party.Labour Party.Department for Environment, Food and Rural Affairs",157
+party.Labour Party.Department for International Development,115
+party.Labour Party.Department for Transport,217
+party.Labour Party.Department for Work and Pensions,235
+party.Labour Party.Department of Energy and Climate Change,217
+party.Labour Party.Department of Health,235
+party.Labour Party.Foreign and Commonwealth Office,200
+party.Labour Party.Home Office,172
+party.Labour Party.House of Commons Commission,6
+party.Labour Party.Leader of the House of Commons,44
+party.Labour Party.Minister for Women and Equalities,105
+party.Labour Party.Ministry of Defence,177
+party.Labour Party.Ministry of Justice,236
+party.Labour Party.Northern Ireland Office,55
+party.Labour Party.Prime Minister,527
+party.Labour Party.Scotland Office,65
+party.Labour Party.Speaker's Committee on the Electoral Commission,6
+party.Labour Party.Treasury,182
+party.Labour Party.Wales Office,88
+party.Labour Party; Cooperative Party,
+party.Labour Party; Cooperative Party.Attorney General,5
+party.Labour Party; Cooperative Party.Cabinet Office,12
+party.Labour Party; Cooperative Party.Church Commissioners,7
+party.Labour Party; Cooperative Party.Communities and Local Government,25
+"party.Labour Party; Cooperative Party.Department for Business, Innovation and Skills",34
+"party.Labour Party; Cooperative Party.Department for Culture, Media and Sport",14
+party.Labour Party; Cooperative Party.Department for Education,41
+"party.Labour Party; Cooperative Party.Department for Environment, Food and Rural Affairs",19
+party.Labour Party; Cooperative Party.Department for International Development,16
+party.Labour Party; Cooperative Party.Department for Transport,34
+party.Labour Party; Cooperative Party.Department for Work and Pensions,22
+party.Labour Party; Cooperative Party.Department of Energy and Climate Change,30
+party.Labour Party; Cooperative Party.Department of Health,26
+party.Labour Party; Cooperative Party.Foreign and Commonwealth Office,29
+party.Labour Party; Cooperative Party.Home Office,27
+party.Labour Party; Cooperative Party.House of Commons Commission,5
+party.Labour Party; Cooperative Party.Leader of the House of Commons,4
+party.Labour Party; Cooperative Party.Minister for Women and Equalities,9
+party.Labour Party; Cooperative Party.Ministry of Defence,30
+party.Labour Party; Cooperative Party.Ministry of Justice,20
+party.Labour Party; Cooperative Party.Northern Ireland Office,4
+party.Labour Party; Cooperative Party.Prime Minister,37
+party.Labour Party; Cooperative Party.Public Accounts Commission,1
+party.Labour Party; Cooperative Party.Scotland Office,4
+party.Labour Party; Cooperative Party.Speaker's Committee on the Electoral Commission,3
+party.Labour Party; Cooperative Party.Treasury,49
+party.Labour Party; Cooperative Party.Wales Office,11
+party.Liberal Democrats,
+party.Liberal Democrats.Cabinet Office,3
+party.Liberal Democrats.Church Commissioners,2
+party.Liberal Democrats.Communities and Local Government,7
+"party.Liberal Democrats.Department for Business, Innovation and Skills",7
+"party.Liberal Democrats.Department for Culture, Media and Sport",3
+party.Liberal Democrats.Department for Education,11
+"party.Liberal Democrats.Department for Environment, Food and Rural Affairs",8
+party.Liberal Democrats.Department for International Development,9
+party.Liberal Democrats.Department for Transport,17
+party.Liberal Democrats.Department for Work and Pensions,6
+party.Liberal Democrats.Department of Energy and Climate Change,15
+party.Liberal Democrats.Department of Health,21
+party.Liberal Democrats.Foreign and Commonwealth Office,10
+party.Liberal Democrats.Home Office,12
+party.Liberal Democrats.Leader of the House of Commons,1
+party.Liberal Democrats.Minister for Women and Equalities,3
+party.Liberal Democrats.Ministry of Defence,8
+party.Liberal Democrats.Ministry of Justice,15
+party.Liberal Democrats.Prime Minister,12
+party.Liberal Democrats.Scotland Office,3
+party.Liberal Democrats.Treasury,13
+party.Liberal Democrats.Wales Office,7
+party.Plaid Cymru,
+party.Plaid Cymru.Cabinet Office,3
+"party.Plaid Cymru.Department for Business, Innovation and Skills",2
+"party.Plaid Cymru.Department for Culture, Media and Sport",2
+"party.Plaid Cymru.Department for Environment, Food and Rural Affairs",1
+party.Plaid Cymru.Department for Transport,3
+party.Plaid Cymru.Department of Energy and Climate Change,4
+party.Plaid Cymru.Home Office,2
+party.Plaid Cymru.Ministry of Defence,3
+party.Plaid Cymru.Ministry of Justice,3
+party.Plaid Cymru.Prime Minister,8
+party.Plaid Cymru.Wales Office,28
+party.Scottish National Party,
+party.Scottish National Party.Attorney General,23
+party.Scottish National Party.Cabinet Office,47
+party.Scottish National Party.Church Commissioners,3
+party.Scottish National Party.Communities and Local Government,47
+"party.Scottish National Party.Department for Business, Innovation and Skills",50
+"party.Scottish National Party.Department for Culture, Media and Sport",40
+party.Scottish National Party.Department for Education,42
+"party.Scottish National Party.Department for Environment, Food and Rural Affairs",45
+party.Scottish National Party.Department for International Development,43
+party.Scottish National Party.Department for Transport,55
+party.Scottish National Party.Department for Work and Pensions,93
+party.Scottish National Party.Department of Energy and Climate Change,96
+party.Scottish National Party.Department of Health,57
+party.Scottish National Party.Foreign and Commonwealth Office,60
+party.Scottish National Party.Home Office,63
+party.Scottish National Party.House of Commons Commission,16
+party.Scottish National Party.Leader of the House of Commons,39
+party.Scottish National Party.Minister for Women and Equalities,39
+party.Scottish National Party.Ministry of Defence,87
+party.Scottish National Party.Ministry of Justice,63
+party.Scottish National Party.Northern Ireland Office,7
+party.Scottish National Party.Prime Minister,175
+party.Scottish National Party.Public Accounts Commission,3
+party.Scottish National Party.Scotland Office,112
+party.Scottish National Party.Speaker's Committee on the Electoral Commission,6
+party.Scottish National Party.Treasury,74
+party.Scottish National Party.Wales Office,2
+party.Social Democratic and Labour Party,
+party.Social Democratic and Labour Party.Cabinet Office,1
+"party.Social Democratic and Labour Party.Department for Business, Innovation and Skills",6
+"party.Social Democratic and Labour Party.Department for Culture, Media and Sport",2
+party.Social Democratic and Labour Party.Department for Education,1
+"party.Social Democratic and Labour Party.Department for Environment, Food and Rural Affairs",4
+party.Social Democratic and Labour Party.Department for Transport,1
+party.Social Democratic and Labour Party.Department for Work and Pensions,2
+party.Social Democratic and Labour Party.Department of Energy and Climate Change,5
+party.Social Democratic and Labour Party.Department of Health,11
+party.Social Democratic and Labour Party.Foreign and Commonwealth Office,9
+party.Social Democratic and Labour Party.Home Office,2
+party.Social Democratic and Labour Party.Minister for Women and Equalities,1
+party.Social Democratic and Labour Party.Ministry of Defence,2
+party.Social Democratic and Labour Party.Ministry of Justice,4
+party.Social Democratic and Labour Party.Northern Ireland Office,21
+party.Social Democratic and Labour Party.Prime Minister,7
+party.Social Democratic and Labour Party.Treasury,8
+party.UK Independence Party,
+party.UK Independence Party.Attorney General,1
+"party.UK Independence Party.Department for Culture, Media and Sport",2
+party.UK Independence Party.Department for Education,2
+party.UK Independence Party.Department for International Development,2
+party.UK Independence Party.Department for Transport,1
+party.UK Independence Party.Department of Energy and Climate Change,3
+party.UK Independence Party.Department of Health,4
+party.UK Independence Party.Foreign and Commonwealth Office,2
+party.UK Independence Party.Home Office,6
+party.UK Independence Party.House of Commons Commission,2
+party.UK Independence Party.Minister for Women and Equalities,2
+party.UK Independence Party.Ministry of Defence,2
+party.UK Independence Party.Ministry of Justice,2
+party.UK Independence Party.Prime Minister,8
+party.Ulster Unionist Party,
+party.Ulster Unionist Party.Attorney General,3
+party.Ulster Unionist Party.Cabinet Office,4
+party.Ulster Unionist Party.Church Commissioners,2
+"party.Ulster Unionist Party.Department for Business, Innovation and Skills",1
+party.Ulster Unionist Party.Department for Education,2
+"party.Ulster Unionist Party.Department for Environment, Food and Rural Affairs",7
+party.Ulster Unionist Party.Department for Transport,3
+party.Ulster Unionist Party.Department for Work and Pensions,2
+party.Ulster Unionist Party.Department of Health,3
+party.Ulster Unionist Party.Foreign and Commonwealth Office,2
+party.Ulster Unionist Party.Home Office,2
+party.Ulster Unionist Party.Minister for Women and Equalities,1
+party.Ulster Unionist Party.Ministry of Defence,2
+party.Ulster Unionist Party.Ministry of Justice,6
+party.Ulster Unionist Party.Northern Ireland Office,8
+party.Ulster Unionist Party.Prime Minister,3
+party.Ulster Unionist Party.Treasury,5
+,
+,
+,
+,
+,
+,
