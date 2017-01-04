@@ -34,7 +34,7 @@ department.Communities and Local Government.Labour Party Cooperative Party,25
 department.Communities and Local Government.Liberal Democrats,7
 department.Communities and Local Government.Democratic Unionist Party,3
 department.Communities and Local Government.Green Party,2
-department.Communities and Local Government.Independent (affiliation),1
+department.Communities and Local Government.Independent ,1
 department.Department for Business Innovation and Skills,
 department.Department for Business Innovation and Skills.Conservative Party,293
 department.Department for Business Innovation and Skills.Scottish National Party,50
@@ -55,7 +55,7 @@ department.Department for Culture Media and Sport.Democratic Unionist Party,6
 department.Department for Culture Media and Sport.Plaid Cymru,2
 department.Department for Culture Media and Sport.UK Independence Party,2
 department.Department for Culture Media and Sport.Social Democratic and Labour Party,2
-department.Department for Culture Media and Sport.Independent (affiliation),6
+department.Department for Culture Media and Sport.Independent ,6
 department.Department for Education,
 department.Department for Education.Conservative Party,296
 department.Department for Education.Scottish National Party,42
@@ -66,7 +66,7 @@ department.Department for Education.Democratic Unionist Party,2
 department.Department for Education.UK Independence Party,2
 department.Department for Education.Ulster Unionist Party,2
 department.Department for Education.Social Democratic and Labour Party,1
-department.Department for Education.Independent (affiliation),2
+department.Department for Education.Independent ,2
 department.Department for Environment Food and Rural Affairs,
 department.Department for Environment Food and Rural Affairs.Conservative Party,253
 department.Department for Environment Food and Rural Affairs.Scottish National Party,45
@@ -86,7 +86,7 @@ department.Department for International Development.Labour Party Cooperative Par
 department.Department for International Development.Liberal Democrats,9
 department.Department for International Development.Democratic Unionist Party,6
 department.Department for International Development.UK Independence Party,2
-department.Department for International Development.Independent (affiliation),1
+department.Department for International Development.Independent ,1
 department.Department for Transport,
 department.Department for Transport.Conservative Party,304
 department.Department for Transport.Scottish National Party,55
@@ -98,7 +98,7 @@ department.Department for Transport.Plaid Cymru,3
 department.Department for Transport.UK Independence Party,1
 department.Department for Transport.Ulster Unionist Party,3
 department.Department for Transport.Social Democratic and Labour Party,1
-department.Department for Transport.Independent (affiliation),1
+department.Department for Transport.Independent ,1
 department.Department for Work and Pensions,
 department.Department for Work and Pensions.Conservative Party,280
 department.Department for Work and Pensions.Scottish National Party,93
@@ -107,7 +107,7 @@ department.Department for Work and Pensions.Labour Party Cooperative Party,22
 department.Department for Work and Pensions.Liberal Democrats,6
 department.Department for Work and Pensions.Ulster Unionist Party,2
 department.Department for Work and Pensions.Social Democratic and Labour Party,2
-department.Department for Work and Pensions.Independent (affiliation),1
+department.Department for Work and Pensions.Independent ,1
 department.Department of Energy and Climate Change,
 department.Department of Energy and Climate Change.Conservative Party,232
 department.Department of Energy and Climate Change.Scottish National Party,96
@@ -141,7 +141,7 @@ department.Foreign and Commonwealth Office.UK Independence Party,2
 department.Foreign and Commonwealth Office.Ulster Unionist Party,2
 department.Foreign and Commonwealth Office.Social Democratic and Labour Party,9
 department.Foreign and Commonwealth Office.Green Party,1
-department.Foreign and Commonwealth Office.Independent (affiliation),1
+department.Foreign and Commonwealth Office.Independent ,1
 department.Home Office,
 department.Home Office.Conservative Party,245
 department.Home Office.Scottish National Party,63
@@ -154,7 +154,7 @@ department.Home Office.UK Independence Party,6
 department.Home Office.Ulster Unionist Party,2
 department.Home Office.Social Democratic and Labour Party,2
 department.Home Office.Green Party,2
-department.Home Office.Independent (affiliation),4
+department.Home Office.Independent ,4
 department.House of Commons Commission,
 department.House of Commons Commission.Conservative Party,10
 department.House of Commons Commission.Scottish National Party,16
@@ -200,7 +200,7 @@ department.Ministry of Justice.Plaid Cymru,3
 department.Ministry of Justice.UK Independence Party,2
 department.Ministry of Justice.Ulster Unionist Party,6
 department.Ministry of Justice.Social Democratic and Labour Party,4
-department.Ministry of Justice.Independent (affiliation),1
+department.Ministry of Justice.Independent ,1
 department.Northern Ireland Office,
 department.Northern Ireland Office.Conservative Party,85
 department.Northern Ireland Office.Scottish National Party,7
@@ -209,7 +209,7 @@ department.Northern Ireland Office.Labour Party Cooperative Party,4
 department.Northern Ireland Office.Democratic Unionist Party,43
 department.Northern Ireland Office.Ulster Unionist Party,8
 department.Northern Ireland Office.Social Democratic and Labour Party,21
-department.Northern Ireland Office.Independent (affiliation),6
+department.Northern Ireland Office.Independent ,6
 department.Prime Minister,
 department.Prime Minister.Conservative Party,606
 department.Prime Minister.Scottish National Party,175
@@ -233,7 +233,7 @@ department.Scotland Office.Labour Party,65
 department.Scotland Office.Labour Party Cooperative Party,4
 department.Scotland Office.Liberal Democrats,3
 department.Scotland Office.Democratic Unionist Party,1
-department.Scotland Office.Independent (affiliation),1
+department.Scotland Office.Independent ,1
 department.Speaker's Committee on the Electoral Commission,
 department.Speaker's Committee on the Electoral Commission.Conservative Party,21
 department.Speaker's Committee on the Electoral Commission.Scottish National Party,6
