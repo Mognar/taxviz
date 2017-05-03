@@ -1,3 +1,5 @@
+{
+  "nodes": [
 {"source":"Abbott, Diane","target":"Department for Business, Innovation and Skills", "value":1},
 {"source":"Abbott, Diane","target":"Department for Communities and Local Government", "value":1},
 {"source":"Abbott, Diane","target":"Department for Culture, Media and Sport", "value":1},
@@ -11560,3 +11562,5 @@
 {"source":"Meale, Alan","target":"Department for Business, Innovation and Skills", "value":1},
 {"source":"Meale, Alan","target":"Department for Environment, Food and Rural Affairs", "value":1},
 {"source":"Meale, Alan","target":"Foreign and Commonwealth Office", "value":1}
+]
+}
